@@ -1,1 +1,19 @@
 /* your code */
+table{
+	border: 1px solid #30D6E2;
+	border-collapse: collapse;
+	text-align: center;
+}
+thead{
+	background-color: #1D0481;
+	rows-collapse: collapse;
+	color: white;
+}
+td,th{
+	padding: 10px;
+}
+tr:nth-child(even){
+	background-color:#C4C4C4;
+;
+	
+}
